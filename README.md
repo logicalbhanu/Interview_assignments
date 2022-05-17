@@ -1,6 +1,9 @@
 # Interview_assignments
 This repository contains the assignments that i have to solve during my Interviews for Data Scientist position.
 
+The Deployment of Quesiton 1.2, is done with flask with local server, 
+to execute, enter the Interview_assignments folder and follow the video instructions.
+
 Answers of Bonus questions :
 
 1. Write about any difficult problem that you solved. (According to us difficult - is
