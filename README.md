@@ -1,6 +1,8 @@
 # Interview_assignments
 This repository contains the assignments that i have to solve during my Interviews for Data Scientist position.
 
+Solution of questions are in the two colab notebooks, with quesiton1 and question2 in their name.
+
 The Deployment of Quesiton 1.2, is done with flask with local server, 
 to execute, enter the Interview_assignments folder and follow the video instructions.
 
